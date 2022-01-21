@@ -2,18 +2,24 @@
 # Unit 19 Homework
 
 
-![Streamlit Application](Images/Screen Shot 2022-01-21 at 10.36.27 AM)
+![Streamlit Application](Images/StreamlitWallet.png)
 <br/>
 
 
 ## **Validation**
 
 
-![Validate Ganache Details](Images/Screen Shot 2022-01-21 at 10.43.50 AM.png)
+![Validate Ganache Details](Images/SentTransaction.png)
 <br/> 
+
+## **Validate Ganache**
+
+
+![Validate Ganache Transaction Details](Images/GanacheValidation.png)
+<br/>
 
 ## **Validate Ganache Block**
 
 
-![Validate Ganache Transaction Details](Images/Screen Shot 2022-01-21 at 10.47.26 AM)
+![Validate Ganache Transaction Details](Images/GanacheTransactionDetails.png)
 <br/>
